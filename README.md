@@ -1,5 +1,5 @@
 # Lightweight Analytics at Scale: Hands-On with DuckDB & Smallpond in Python
-### Presentation: [{ Lightweight Analytics at Scale }](https://github.com/valerybriz/lightweight-analytics-duckdb-smallpond-oct2025/blob/main/workshop/Smallpond%20Pyladies%20Amsterdam.pdf)
+### Presentation: [{ Lightweight Analytics at Scale }](https://github.com/pyladiesams/lightweight-analytics-duckdb-smallpond-oct2025/blob/main/workshop/Smallpond%20Pyladies%20Amsterdam.pdf)
 
 ## Workshop description
 In this workshop, you’ll learn how to build powerful yet lightweight data workflows using Python, DuckDB, and Smallpond. We’ll explore how DuckDB enables fast, in-process SQL analytics on massive datasets without heavy infrastructure, and how Smallpond extends those capabilities into distributed, collaborative, or cloud-friendly environments.
